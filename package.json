@@ -1,0 +1,15 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "Programacion orientada a objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sauri Arriola Victor Daniel",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
